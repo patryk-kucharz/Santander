@@ -1,0 +1,10 @@
+version: '2'
+services:
+  simple-crud:
+    container_name: santander-crud
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: santander-crud:latest
+    ports:
+      - 8080:8080

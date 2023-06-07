@@ -1,0 +1,6 @@
+com/kucharz/patryk/SimpleCRUD/SimpleCrudApplication.class
+com/kucharz/patryk/SimpleCRUD/model/Product.class
+com/kucharz/patryk/SimpleCRUD/repository/ProductRepository.class
+com/kucharz/patryk/SimpleCRUD/controller/ProductController.class
+com/kucharz/patryk/SimpleCRUD/model/ProductDTO.class
+com/kucharz/patryk/SimpleCRUD/configuration/AuthConfiguration.class
